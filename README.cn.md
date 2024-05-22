@@ -1,3 +1,11 @@
+<div align="center">
+  
+# vgg_classify
+  
+[English](/README.md) ｜ [简体中文](/README.cn.md) 
+
+</div>
+
 # 自定义数据集
 1. 下载数据集：https://www.kaggle.com/ashishsaxena2209/animal-image-datasetdog-cat-and-panda
 2. 将数据集按照9:1的比例分成训练集train和测试集test，分别存在train和test文件夹下。
