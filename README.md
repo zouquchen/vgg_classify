@@ -1,3 +1,11 @@
+<div align="center">
+  
+# vgg_classify
+  
+[English](/README.md) ｜ [简体中文](/README.cn.md) 
+
+</div>
+
 # Custom Dataset
 1. Download the dataset from: https://www.kaggle.com/ashishsaxena2209/animal-image-datasetdog-cat-and-panda
 2. Split the dataset into training set (train) and testing set (test) in a ratio of 9:1, and store them in the train and test folders respectively.
